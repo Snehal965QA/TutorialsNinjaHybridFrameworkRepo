@@ -12,7 +12,9 @@ import com.tutorialsninja.qa.baseClass.Base;
 import com.tutorialsninja.qa.pages.HomePage;
 import com.tutorialsninja.qa.pages.SearchPage;
 
-//Updated command
+
+
+//Updated command - Added more details
 
 public class SearchTest extends Base {
 
